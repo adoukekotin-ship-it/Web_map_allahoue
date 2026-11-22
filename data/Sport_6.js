@@ -1,0 +1,1 @@
+var json_Sport_6 = {"type":"FeatureCollection","name":"Sport_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"qc_id":0.0,"nom":"Foot"},"geometry":{"type":"MultiPoint","coordinates":[[2.265363778458828,7.162307889937547]]}}]}

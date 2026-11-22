@@ -1,0 +1,1 @@
+var json_Infrastructure_1 = {"type":"FeatureCollection","name":"Infrastructure_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"qc_id":0.0,"type":"ANTENNE","source":"RESTITUTION"},"geometry":{"type":"MultiPoint","coordinates":[[2.264009560909614,7.177357949583912]]}}]}
